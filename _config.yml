@@ -18,10 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nichtgestalt
+title: nichtgestalt
 email: 1993sanderphilipp@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ein Blog über meinen Versuch, Nietzsche's Philosophie praktisch anzuwenden.
+  Nietzsche's Ideen in der Praxis: Selbstüberwindung, Amor Fati und von
+  Über- und Untergängen
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
