@@ -19,14 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: nichtgestalt
-email: 1993sanderphilipp@gmail.com
+#email: 1993sanderphilipp@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Nietzsche's Ideen in der Praxis: Selbstüberwindung, Amor Fati und von
   Über- und Untergängen
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
-github_username: nichtgestalt
+#twitter_username:
+#github_username: nichtgestalt
 
 # Build settings
 theme: minima
